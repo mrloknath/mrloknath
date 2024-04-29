@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-<!--
 **mrloknath/mrloknath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working as a student
+- 🌱 I’m currently learning flutter
+- 👯 I’m looking to collaborate on Flutter app development
+- 🤔 I’m looking for help with upskill myself
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: giriloknath42gmail.com
+- 😄 Pronouns: Mr
 - ⚡ Fun fact: ...
--->
+
 
 
 ## 🌐 Socials:
