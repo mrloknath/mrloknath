@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <img src='https://images.app.goo.gl/KQv1uqVzFQ7UBjBi9' style=""/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrloknath&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://images.app.goo.gl/KQv1uqVzFQ7UBjBi9)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
