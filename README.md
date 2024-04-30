@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=mrloknath&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://images.app.goo.gl/KQv1uqVzFQ7UBjBi9' style="height: 400px;"/>
+<img src='https://images.app.goo.gl/KQv1uqVzFQ7UBjBi9' style=""/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrloknath&icon=0&color=3)](https://visitcount.itsvg.in)
