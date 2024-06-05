@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrloknath&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='[https://images.app.goo.gl/KQv1uqVzFQ7UBjBi9](https://kruschecompany.com/wp-content/uploads/2022/09/Hero-image-for-analysis-of-international-Flutter-developer-salary-ranges-with-data-covering-Germany-Switzerland-United-Kingdom-Eastern-Europe-India-and-USA.jpg)' align="center" height="350" width="600"/>
+
 
 ---
 [![](https://images.app.goo.gl/KQv1uqVzFQ7UBjBi9)
