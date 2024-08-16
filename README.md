@@ -8,10 +8,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on Flutter app development
 - 🤔 I’m looking for help with upskill myself
-- 💬 Ask me about ...
 - 📫 How to reach me: giriloknath42gmail.com
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: ...
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrloknath&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
